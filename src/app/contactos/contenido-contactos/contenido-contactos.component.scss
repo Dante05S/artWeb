@@ -1,0 +1,24 @@
+.contenido{
+  text-align: center;
+}
+
+.icon-facebook{
+  margin: 0 10px;
+}
+
+.form{
+  margin-top: 30px;
+}
+
+
+
+@media(min-width: 768px){
+
+  .contenido{
+    margin-top:70px;
+  }
+  .form{
+    margin-top: 50px;
+  }
+
+}

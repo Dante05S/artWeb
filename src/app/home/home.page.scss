@@ -1,0 +1,19 @@
+ion-content{
+  --background: url(../../assets/img/fondo.png) no-repeat;
+}
+
+ion-toolbar{
+  --background: #343533;
+}
+
+
+div{
+  padding: 0 30px;
+}
+
+@media (min-width:768px){
+
+  div {
+    padding: 0 120px;
+  }
+}

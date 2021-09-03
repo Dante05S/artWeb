@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "artweb",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

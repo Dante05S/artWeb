@@ -1,0 +1,36 @@
+.container1{
+  text-align: center;
+}
+
+.container-portfolio{
+  margin-top: 35px;
+}
+
+h3{
+  font-weight: bold;
+}
+
+p{
+  font-size: 16px;
+  line-height: 25px;
+}
+
+ion-icon{
+  color:#6696ec;
+}
+
+ion-col{
+  text-align: center;
+}
+
+@media(min-width: 768px){
+
+  .contenido{
+    margin-top:70px;
+  }
+
+  .container-portfolio{
+    margin-top: 70px;
+  }
+
+}

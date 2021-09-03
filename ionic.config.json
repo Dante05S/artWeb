@@ -1,0 +1,7 @@
+{
+  "name": "artweb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

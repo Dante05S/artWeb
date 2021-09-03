@@ -1,0 +1,18 @@
+ion-content{
+  --background: #ffffff;
+}
+
+ion-toolbar{
+  --background: #343533;
+}
+
+div{
+  padding: 0 30px;
+}
+
+@media (min-width:768px){
+
+  div {
+    padding: 0 120px;
+  }
+}

@@ -1,0 +1,55 @@
+ion-toolbar{
+  --background:transparent;
+  --padding-bottom: 10px;
+}
+
+ion-header{
+  margin-top: 10px;
+}
+
+ion-header::after{
+  width: 0%;
+}
+
+ion-thumbnail{
+  height: 20px;
+  width: 95px;
+  display: none;
+}
+
+a{
+  text-decoration: none;
+  color: #9c9b9b;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 20px;
+}
+
+ion-icon{
+  margin-right: 15px;
+}
+
+.links
+{
+  display: none;
+  padding-top: 5px;
+  margin-left: 30px;
+}
+
+.contactos{
+  margin-right: 0;
+}
+
+
+@media (min-width: 576px){
+
+  ion-menu-button{
+    display: none;
+  }
+  ion-thumbnail{
+    display:block;
+  }
+  .links{
+    display:block;
+  }
+}
